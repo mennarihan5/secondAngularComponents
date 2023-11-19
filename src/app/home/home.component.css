@@ -1,0 +1,16 @@
+form {
+  width: 35%;
+  margin: 3% auto;
+}
+.email-input {
+  margin-bottom: 2%;
+}
+.form-control {
+  margin-bottom: 0.8%;
+}
+.password-input {
+  margin: 2% 0;
+}
+.form-check-checkbox {
+  margin: 2% 0;
+}

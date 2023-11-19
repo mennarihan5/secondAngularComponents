@@ -1,0 +1,16 @@
+.navbar {
+  color: rgb(190, 12, 113);
+  width: 25%;
+  margin: auto;
+  padding: 2% 0;
+}
+.navbar ul {
+  display: flex;
+  gap: 6%;
+}
+.navbar ul li {
+  font-weight: 600;
+  list-style-type: none;
+  font-size: 1.2em;
+  cursor: pointer;
+}
